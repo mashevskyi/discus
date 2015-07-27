@@ -1,0 +1,4 @@
+[submodule "sites/all/modules/contrib/globalredirect"]
+	path = sites/all/modules/contrib/globalredirect
+	url = http://git.drupal.org/project/globalredirect.git
+	branch = 7.x-1.x
